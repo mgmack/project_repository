@@ -54,12 +54,12 @@ Create Pantheon Release mult-dev environment
 Clone live database and files
 Run update.php
 Deploy Staging Environment
-During the release, you will sign in to the Production Acquia Site Factory Console, using an account that's been assigned either the developer or release engineer role, to deploy a sample of the production sites ( 1 of each site type ) to the test Site Factory environment. In the admin menu, click Administration, and then click the Deploy staging environment link. See https://www.pwcacsf.acsitefactory.com/admin/gardens/staging/deploy  and screenshot below. Once this process is complete, you can proceed to Update Code step below.
+During the release, you will sign in to the Production Acquia Site Factory Console, using an account that's been assigned either the developer or release engineer role, to deploy a sample of the production sites ( 1 of each site type ) to the test Site Factory environment. In the admin menu, click Administration, and then click the Deploy staging environment link. Once this process is complete, you can proceed to Update Code step below.
 
 image2017-3-27_22-37-33.png
 
 Update Code
-Once the sample of production sites have been deployed to the test environment, you can now sign into the test Site Factory environment, using an account that's been assigned the release engineer role, to update the code. In the admin menu, click Administration, and then click the Update code link. See https://www.test-pwcacsf.acsitefactory.com/admin/gardens/site-update/update  and screenshot below. Follow the onscreen instructions and linked documentation page to update the code.
+Once the sample of production sites have been deployed to the test environment, you can now sign into the test Site Factory environment, using an account that's been assigned the release engineer role, to update the code. In the admin menu, click Administration, and then click the Update code link.
 
 Select immediately or scheduled a time.
 Select the Release branch from the "Select from the options below to update the sites in this Site Factory"
