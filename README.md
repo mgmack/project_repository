@@ -1,6 +1,8 @@
 # project_repository
 
-What's the difference between the Bitbucket Project Repo and Acquia's Repo
+What's the difference between the Bitbucket Project Repo and Acquia's Repo?
+
+
 The Mediacurrent Bitbucket repo contains only project specific code and uses the project's composer.json file to manage all of the external dependencies, including Drupal core itself. The Acquia Project repository represents the complete project build including all external libraries, packages, Drupal core and Drupal contrib modules.
 
 Acquia Project Repo
